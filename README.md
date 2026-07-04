@@ -39,3 +39,5 @@ El desarrollo está compuesto por tres pilares fundamentales que interactúan me
     - El inspector, dependiendo de si ha superado o no la prueba, le dirá el mensaje final "Tome su pegatina" o "Debe volver de nuevo".
 
 * Las peleas que puedan ocurrir entre el inspector y el cliente después de notificarle que debe volver de nuevo, quedan fuera del alcance de esta tarea.
+---
+*Desarrollado como parte del módulo de Programación de Servicios y Procesos (PSP).*
